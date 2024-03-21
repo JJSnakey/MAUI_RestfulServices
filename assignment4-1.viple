@@ -17,8 +17,8 @@
       </OutgoingLines>
       <AlternateOutgoingLines />
       <Location>
-        <Left>178</Left>
-        <Top>122.08</Top>
+        <Left>190</Left>
+        <Top>28.08</Top>
       </Location>
       <Values>
         <Value Index="0">26</Value>
@@ -42,8 +42,8 @@
       </OutgoingLines>
       <AlternateOutgoingLines />
       <Location>
-        <Left>377</Left>
-        <Top>127.28</Top>
+        <Left>389</Left>
+        <Top>33.28</Top>
       </Location>
       <Values>
         <Value>"0"</Value>
@@ -63,8 +63,8 @@
       </OutgoingLines>
       <AlternateOutgoingLines />
       <Location>
-        <Left>9.20000000000007</Left>
-        <Top>115.08</Top>
+        <Left>21.2000000000001</Left>
+        <Top>21.0799999999999</Top>
       </Location>
       <Values>
         <Value Index="0">27</Value>
@@ -90,8 +90,8 @@
       </OutgoingLines>
       <AlternateOutgoingLines />
       <Location>
-        <Left>553</Left>
-        <Top>182.88</Top>
+        <Left>565</Left>
+        <Top>88.8799999999999</Top>
       </Location>
       <Values />
     </Activity>
@@ -113,8 +113,8 @@
       </OutgoingLines>
       <AlternateOutgoingLines />
       <Location>
-        <Left>620.800000000001</Left>
-        <Top>135.08</Top>
+        <Left>632.800000000001</Left>
+        <Top>41.08</Top>
       </Location>
       <Values>
         <Value>bitString</Value>
@@ -138,8 +138,8 @@
       </OutgoingLines>
       <AlternateOutgoingLines />
       <Location>
-        <Left>647.2</Left>
-        <Top>247.48</Top>
+        <Left>659.2</Left>
+        <Top>153.48</Top>
       </Location>
       <Values>
         <Value>state.stringTotal+state.bitString</Value>
@@ -163,8 +163,8 @@
       </OutgoingLines>
       <AlternateOutgoingLines />
       <Location>
-        <Left>777.800000000001</Left>
-        <Top>135.28</Top>
+        <Left>789.800000000001</Left>
+        <Top>41.2799999999999</Top>
       </Location>
       <Values>
         <Value>stringTotal</Value>
@@ -188,8 +188,8 @@
         <GraphEdgeID>8</GraphEdgeID>
       </AlternateOutgoingLines>
       <Location>
-        <Left>934.6</Left>
-        <Top>219.68</Top>
+        <Left>946.6</Left>
+        <Top>125.68</Top>
       </Location>
       <Values>
         <Value Index="0">state.stringTotal.Length &lt; 7</Value>
@@ -217,8 +217,8 @@
         <GraphEdgeID>10</GraphEdgeID>
       </AlternateOutgoingLines>
       <Location>
-        <Left>116.4</Left>
-        <Top>369.88</Top>
+        <Left>128.4</Left>
+        <Top>275.88</Top>
       </Location>
       <Values>
         <Value Index="0">state.counter % 2 == 0</Value>
@@ -242,8 +242,8 @@
       </OutgoingLines>
       <AlternateOutgoingLines />
       <Location>
-        <Left>350.4</Left>
-        <Top>410.48</Top>
+        <Left>362.4</Left>
+        <Top>316.48</Top>
       </Location>
       <Values>
         <Value>state.stringTotal+"1"</Value>
@@ -267,8 +267,8 @@
       </OutgoingLines>
       <AlternateOutgoingLines />
       <Location>
-        <Left>353.2</Left>
-        <Top>504.08</Top>
+        <Left>365.2</Left>
+        <Top>410.08</Top>
       </Location>
       <Values>
         <Value>state.stringTotal+"0"</Value>
@@ -292,8 +292,8 @@
       </OutgoingLines>
       <AlternateOutgoingLines />
       <Location>
-        <Left>611.000000000001</Left>
-        <Top>406.68</Top>
+        <Left>623.000000000001</Left>
+        <Top>312.68</Top>
       </Location>
       <Values>
         <Value>stringTotal</Value>
@@ -313,8 +313,8 @@
       <OutgoingLines />
       <AlternateOutgoingLines />
       <Location>
-        <Left>945.24</Left>
-        <Top>404.48</Top>
+        <Left>953.24</Left>
+        <Top>310.48</Top>
       </Location>
       <Values>
         <Value></Value>
@@ -340,8 +340,8 @@
       </OutgoingLines>
       <AlternateOutgoingLines />
       <Location>
-        <Left>532.4</Left>
-        <Top>405.68</Top>
+        <Left>544.4</Left>
+        <Top>311.68</Top>
       </Location>
       <Values />
     </Activity>
@@ -363,8 +363,8 @@
       </OutgoingLines>
       <AlternateOutgoingLines />
       <Location>
-        <Left>778</Left>
-        <Top>406.48</Top>
+        <Left>790</Left>
+        <Top>312.48</Top>
       </Location>
       <Values>
         <Value>state.stringTotal</Value>
@@ -384,8 +384,8 @@
       <OutgoingLines />
       <AlternateOutgoingLines />
       <Location>
-        <Left>151.800000000001</Left>
-        <Top>499.88</Top>
+        <Left>163.800000000001</Left>
+        <Top>405.88</Top>
       </Location>
       <Values>
         <Value>counter</Value>
@@ -405,8 +405,8 @@
       </OutgoingLines>
       <AlternateOutgoingLines />
       <Location>
-        <Left>7.99999999999989</Left>
-        <Top>500.08</Top>
+        <Left>19.9999999999999</Left>
+        <Top>406.08</Top>
       </Location>
       <Values>
         <Value>0</Value>
@@ -430,8 +430,8 @@
       </OutgoingLines>
       <AlternateOutgoingLines />
       <Location>
-        <Left>381.6</Left>
-        <Top>243.88</Top>
+        <Left>393.6</Left>
+        <Top>149.88</Top>
       </Location>
       <Values>
         <Value>"1"</Value>
@@ -455,8 +455,8 @@
       </OutgoingLines>
       <AlternateOutgoingLines />
       <Location>
-        <Left>68.4000000000001</Left>
-        <Top>243.48</Top>
+        <Left>80.4000000000002</Left>
+        <Top>149.48</Top>
       </Location>
       <Values>
         <Value>state.counter+1</Value>
@@ -480,8 +480,8 @@
       </OutgoingLines>
       <AlternateOutgoingLines />
       <Location>
-        <Left>230.200000000001</Left>
-        <Top>242.68</Top>
+        <Left>242.200000000001</Left>
+        <Top>148.68</Top>
       </Location>
       <Values>
         <Value>counter</Value>
