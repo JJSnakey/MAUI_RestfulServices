@@ -89,7 +89,7 @@
         <Top>254.480000000001</Top>
       </Location>
       <Values>
-        <Value Index="0">270.0</Value>
+        <Value Index="0">-90.0</Value>
         <Value Index="1">Robot/IoT Controller 0</Value>
       </Values>
     </Activity>
@@ -376,7 +376,7 @@
         <Top>252.68</Top>
       </Location>
       <Values>
-        <Value>6000</Value>
+        <Value>3000</Value>
       </Values>
     </Activity>
     <Activity IsFlipped="false">
@@ -629,7 +629,7 @@
         <Top>646.88</Top>
       </Location>
       <Values>
-        <Value>5000</Value>
+        <Value>3000</Value>
       </Values>
     </Activity>
     <Activity IsFlipped="false">
@@ -845,7 +845,7 @@
         <Top>750.48</Top>
       </Location>
       <Values>
-        <Value>2500</Value>
+        <Value>2600</Value>
       </Values>
     </Activity>
     <Activity IsFlipped="false">
