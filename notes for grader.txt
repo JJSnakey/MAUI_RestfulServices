@@ -1,0 +1,28 @@
+Joshua Greer 1218576515
+3/24/2024
+CSE 446 assignment 4
+
+Notes for Grader*
+
+//
+part 1 of the assignment is the viple file assignment4-1
+-I ran the file by opening it in viple and just clicking the green arrow
+-to test inputs, I found that my number pad didnt work and I specifically had to press 1's and 0's above my letter keys
+-After each test case I needed to click stop, and then re run before the next test case
+
+//
+part 2 of the assignment had 2 parts
+2.1 implementation is in the viple file assignment4-2-1
+2.2 implementation is in the viple file assignment4-2-2
+-2.2 is the enhanced version, I was uncertain if it was the only one necessary to submit so I submitted both the original and the enhanced
+
+to run these simulations, I first needed to click "run" from the menu at the top and click "Start Unity Simulator 2"
+* I ran on port 1350 *
+after it loaded I clicked back into viple and pressed the green arrow.
+a window pops up with sensor info, but if you click back into the unity browser you can see my pathfinder wandering amuck
+I also found that removing the walls for an "exit" messed up my sensors and made them not point straight?
+
+Sometimes the robot spawned with really crooked sensor angles, and this messed with the pathing a bit. My successful tests were when the robot walked straight. Also if the robot was too close to a wall the 180 degree turnaround in cul-de-sacs was followed by a search for the nearest right wall
+
+//
+part 3
