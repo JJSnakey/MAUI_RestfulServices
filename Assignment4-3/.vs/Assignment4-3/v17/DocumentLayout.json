@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\qwert\\source\\repos\\446-4\\CSE446assignment4\\Assignment4-3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFD7E23-57A5-4E34-BC21-42FBE92D5D78}|Assignment4-3\\Assignment4-3\\Assignment4-3.csproj|c:\\users\\qwert\\source\\repos\\446-4\\cse446assignment4\\assignment4-3\\assignment4-3\\assignment4-3\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{3BFD7E23-57A5-4E34-BC21-42FBE92D5D78}|Assignment4-3\\Assignment4-3\\Assignment4-3.csproj|solutionrelative:assignment4-3\\assignment4-3\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\qwert\\source\\repos\\446-4\\CSE446assignment4\\Assignment4-3\\Assignment4-3\\Assignment4-3\\App.xaml",
+              "RelativeDocumentMoniker": "Assignment4-3\\Assignment4-3\\App.xaml",
+              "ToolTip": "C:\\Users\\qwert\\source\\repos\\446-4\\CSE446assignment4\\Assignment4-3\\Assignment4-3\\Assignment4-3\\App.xaml",
+              "RelativeToolTip": "Assignment4-3\\Assignment4-3\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-25T03:14:36.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
