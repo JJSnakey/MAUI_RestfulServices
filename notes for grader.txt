@@ -26,3 +26,34 @@ Sometimes the robot spawned with really crooked sensor angles, and this messed w
 
 //
 part 3
+
+this solution is in the Assignment4Part3 folder (with the Assignment4Part3 solution) built in VS 2022
+I am also using windows 11, with no Hyper V thing (I found that closing VS and reopening the project fixed any issues)
+
+I built my app with the same device simulator detailed in slides 4-3 // Pixel 2(+ store) -API 28 OS (Android 9.0 - API 28)
+I implemented 2 RESTful services from the ASU WSRepository:
+1) Encrypt / Decrypt
+2) GetRandomString/{x}
+
+In VS, I ran the app simulation by clicking the green play button (Pixel 2 API 28 (Android 9.0 - API 28) )
+It does take a minute to load the simulation and the app
+
+The encrypt/decrypt is first and works just like the example
+-enter string
+-press encrypt button
+then
+-string auto enters the decrypt part 
+-press decrypt button
+
+the second service is below (GetRandomString/{x})
+-press get random string button
+-do it again and again as long as your heart desires
+
+In closing the app, I found my computer appreciates it if you click the red stop square in VS before exiting the simulation
+
+
+
+
+
+
+THANK YOU!!

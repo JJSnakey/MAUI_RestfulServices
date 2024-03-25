@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Assignment4Part3.MainPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label FontSize="24" Text="Enter Text for Encrypting"/>
+            <Entry x:Name="EncryptEntry"/>
+            <Label x:Name="EncryptLabel" Text="Encrypted Text"/>
+            <Button x:Name="EncryptButton" Text="Encrypt"
+Clicked="EncryptButton_Clicked"/>
+            <Label FontSize="24" Text="Encrypted Text for Decrypting"/>
+            <Entry x:Name="DecryptEntry"/>
+            <Label x:Name="DecryptLabel" Text="Decrypted Text"/>
+            <Button x:Name="DecryptButton" Text="Decrypt"
+Clicked="DecryptButton_Clicked"/>
+            <Label FontSize="24" Text="Get Random String"/>
+            <Label x:Name="GetRandomLabel" Text="Get Random"/>
+            <Button x:Name="RandomButton" Text="Get Random String"
+Clicked="RandomButton_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
